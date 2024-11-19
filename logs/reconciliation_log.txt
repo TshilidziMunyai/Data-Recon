@@ -1,0 +1,3 @@
+Discrepancies for DOI 10.1000/xyz456: Author mismatch: Brown, Alice vs Brown, Alice; Green, Charlie
+Discrepancies for DOI 10.1000/xyz789: Author mismatch: Taylor, Bob; White, Claire vs nan, Year mismatch: 2022.0 vs nan, Journal mismatch: Journal C vs nan
+Discrepancies for DOI 10.1000/xyz999: Author mismatch: nan vs Taylor, Bob; White, Claire, Year mismatch: nan vs 2023.0, Journal mismatch: nan vs Journal D

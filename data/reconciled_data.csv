@@ -1,0 +1,5 @@
+DOI,Authors_data_cite,Title_data_cite,Publication Year_data_cite,Journal_data_cite,Authors_crossref,Title_crossref,Publication Year_crossref,Journal_crossref
+10.1000/xyz123,"Smith, John; Doe, Jane",Research Paper A,2020.0,Journal A,"Smith, John; Doe, Jane",Research Paper A,2020.0,Journal A
+10.1000/xyz456,"Brown, Alice",Research Paper B,2021.0,Journal B,"Brown, Alice; Green, Charlie",Research Paper B,2021.0,Journal B
+10.1000/xyz789,"Taylor, Bob; White, Claire",Research Paper C,2022.0,Journal C,,,,
+10.1000/xyz999,,,,,"Taylor, Bob; White, Claire",Research Paper D,2023.0,Journal D
